@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkatrim_roadmap_2023=self.webpackChunkatrim_roadmap_2023||[]).push([[8941],{9697:a=>{a.exports=JSON.parse('{"permalink":"/doculibrary/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
