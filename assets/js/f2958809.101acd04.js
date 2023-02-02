@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkatrim_roadmap_2023=self.webpackChunkatrim_roadmap_2023||[]).push([[180],{2536:a=>{a.exports=JSON.parse('{"label":"greetings","permalink":"/ecimtech-doculibrary/blog/tags/greetings","allTagsPath":"/ecimtech-doculibrary/blog/tags","count":1}')}}]);
